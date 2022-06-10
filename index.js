@@ -1,5 +1,5 @@
 const Telegraf = require('telegraf');
-const bot = new Telegraf('740806320:AAHed7FF4YbRKkzfALGxLUTtP4nFFm2DA0E');
+const bot = new Telegraf('------key------');
 const cron=require('cron');
 const cronJob = cron.CronJob;
 const axios = require('axios');
